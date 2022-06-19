@@ -1,3 +1,9 @@
 *.png
 *.jpg
 *.jpeg
+/hed
+*.pdf
+*.sh
+*.caffemodel
+*txt
+*.pyc
