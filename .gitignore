@@ -1,7 +1,9 @@
 /test_images
 /hed
+/canny_edge_detector
 *.pdf
 *.sh
 *.caffemodel
 *txt
 *.pyc
+
