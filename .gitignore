@@ -1,6 +1,4 @@
-*.png
-*.jpg
-*.jpeg
+/test_images
 /hed
 *.pdf
 *.sh
